@@ -42,7 +42,7 @@ source flask_env/bin/activate
 ```
 2. Install requirements:
 ```sh
-pip install -r requirements.py
+pip install -r requirements.txt
 
 ```
 
